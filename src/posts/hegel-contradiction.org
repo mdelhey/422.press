@@ -1,0 +1,222 @@
+#+TITLE: On the Origins of Inherent Contradiction in Hegel's /Lesser Logic/
+#+AUTHOR: 422.press
+#+EMAIL: 422press@gmail.com
+#+DATE: 10/8
+#+OPTIONS: toc:nil num:nil date:nil
+
+In his discussions of the Logical moment of the dialectic, Hegel _appears_ to be asserting something
+along the lines of 'everything is inherently contradictory'. Indeed, in the _Addition_ to §48,
+Hegel, asserts that the "true and positive significance" of Kant's antinomies[fn::By antinomy, Hegel
+means no more than a contradiction in which both positions are equally justified: "the assertion of
+two \textit{opposed} propositions about \textit{the same} ob-ject... each of the propositions must
+be affirmed with equal necessity" (91).] is that "everything actual contains opposed determinations
+within it" such that "comprehension of an ob-ject amounts precisely to our becoming conscious of it
+as a concrete unity of opposed determinations" (93)[fn::All translated quotations, page numbers, and
+section numbers found in this paper are taken from /The Encyclopaedia Logic: Part 1 of the
+Encyclopaedia of Philosophical Sciences with the Zusätze/, translated by T.F. Geraets, W. A.
+Suchting, and H. S. Harris published by Hacket in 1991.]. Or, in the _Remark_, that "antinomy is
+found not only in the [Kant's] four particular ob-jects taken from cosmology, but rather in _all_
+objects of all kinds, in _all_ representations, concepts, and ideas" (92). But what is less clear is
+from where these inherent contradictions arise.
+
+What proceeds is an exegetical account of---and a coming to grips with---the **origins** of Hegelian
+contradiction that is inherent or inward. In doing so, I hope to shed light on **what** inherent
+contradiction amounts to within the _Lesser Logic_, **why** Hegel thinks it to be found in
+everything real, and finally its **importance** to Hegel as the constitutive property of the
+dialectical moment of logical thinking.
+
+Something should be said about the similarity between my current project and Thomas Bole's essay
+/Contradiction in Hegel's Science of Logic/ [fn:: /Review of Metaphysics/ 40 (March 1987): 515-534].
+Without a doubt, Bole is the primary source of inspiration for what is written here. However, I seek
+further clarification of the origins of contradiction within the _Lesser Logic_. Bole finds Hegel's
+assertion that 'everything is inherently contradictory' to be inconsistent with the Logic, whereas I
+try to fit it into a reading of the _Lesser Logic_. Moreover, Bole circumscribes contradiction
+within the content of the Logic, whereas I begin with considering contradiction within the form of
+the logic and its division. The result is that, for Bole, contradiction (or its category) figures
+into the logic as a secondary player as "that structure of negativity in which each of the relate is
+what it is by denying its own identity as something contradistinguished from its other and
+identifying itself with that other" (525). Bole's conception of contradiction is primarily
+ascertained from the "unpacking of the structure of reflection", and as a result finds its use
+merely as a theoretical requirement for reflection as opposed to an impetus for dialectic as well as
+part of its result, as I find it to be.
+
+* Origins of Contradiction
+
+In at least one place in the Logic, Hegel characterizes contradiction as the fundamental property of
+the dialectical moment. We might, then, be tempted to conclude that the origins of contradiction lie
+in the dialectical moment as well. However, Hegel, in his discussion of Kant in §48, attributes the
+discovery of the antinomies to the logical position of the understanding, placing them prior to the
+genuine dialectical moment. Kant's great achievement is the realization, from the perspective of the
+understanding, that the categories themselves bring about the contradiction: "this thought, that the
+contradiction which is posited by the determinations of the understanding in what is rational is
+_essential_ and _necessary_, has to be considered one of the most important and profound advances of
+the philosophy of modern times" (92). Insofar as Kant thinks from the perspective of the
+understanding, and insofar as his antinomies bring us into contact with true contradiction, then,
+without ever leaving the first moment of the logical idea, we are confronted with inherent
+contradiction.
+
+This contradiction has divergent implications for reason in Kant and Hegel. The Kantian move is to
+find that this contradiction lies not in the object itself but rather is the fault of reason and its
+cognition of the object, keeping intact the consistency of the world at the cost of the consistency
+of reason. Hegel instead brings the object into the realm of immanence, and so brings the object's
+inherent contradiction (opposed determinations) into rationality as well. Within the speculative
+logic, objects are comprehended in their truth in virtue of the appreciation of the concrete unity
+of their opposed determinations, i.e. in virtue of the appreciation their inherent contradiction.
+Contradiction, once again, lies within (is inherent to) the object or, speculatively comprehended,
+within thinking, and is discovered within the moment of understanding. If contradiction had its
+origins somewhere outside of the moment of the understanding or was not prior to the dialectical
+moment, then in what sense could a thinking rooted in the understanding be said to discover it?
+
+But perhaps this priority ascribed to contradiction over the dialectical is itself a one-sided
+abstraction of the Logical truth. Recall that the three divisions of the Logic are "moments of
+everything logically real, i.e., of every concept or of everything true in general" that, however,
+can only be held apart within the moment of the understanding, and in doing so, lose their truth
+(125). If the truth of the logically real depends upon keeping together the logical moments as
+moments of the Concept, then talk of such temporality is seemingly misguided. On the other hand,
+Hegel is no stranger to talk of _movement_ between concepts and their determinations. Determinations
+are first immediate, _then_ mediated, etc. The resolution is to understand temporal talk in Hegel's
+categorial development as analogously immanent and categorial, i.e. as an ordering of the categories
+in thinking. So when I say that contradiction is prior to dialectic, I mean that contradiction is
+prior to dialectic in the development of the categories in thinking. Yet, so long as contradiction
+is prior and not appreciated within the concrete unity of the Concept, then it is not known in its
+truth. Therefore, what is left to be said about contradiction within this current delimitation is
+its place within the logic as a singular, untrue moment of the logic.
+
+So, towards answering our question on the origins of Hegelian inherent contradiction, we can say
+that inherent contradiction is prior in order to the dialectical moment, that it must fall somewhere
+between the logical moments of understanding and dialectic. Hegel gives an abstract account of these
+two logical moments in his overview of the division of logic, shining light on their interrelation
+(§80 and §81, respectively):
+
+#+BEGIN_QUOTE
+Thinking as understanding stops short at the fixed determinacy and its distinctness vis-a-vis
+other determinacies; such a restricted abstraction counts for the understanding as one that
+subsists on its own account, and simply is (123).
+#+END_QUOTE
+
+From the perspective of understanding, objects and their determinations are distinguished from each
+other without a proper appreciation for what they truly amount to. Objects are separated and
+abstracted, _opposed_. However, the understanding makes the reverse conclusion: it sees its limited
+account of the object as independent, where it really is an account grounded entirely in dependency
+towards other objects.
+
+#+BEGIN_QUOTE
+The dialectical moment is the self-sublation of these finite determinations [of the understanding]
+on their own part, and their passing into their opposites (128).
+#+END_QUOTE
+
+In the dialectic, objects and their isolated, finite determinations are self-sublated, the result of
+which is the negation of their determinations. Within this moment, the determinations of the object
+and their negation find themselves in some sort of coexistence or passing, however in this
+coexistence they are not independent as they were in the understanding. Hegel calls the dialectic
+immanent transcending for this reason: entirely within the object, the isolated determinations found
+from the moment of the understanding are transcended, by means of their own sublation, into
+something new, their negation. The negated determination is no longer isolated as it was in the
+understanding, it is posited in relationship.
+
+The dialectic, then, is in some sense a _resolution_ of the inherent contradictions in objects found
+by the understanding. The need to resolve these inherent contradictions is the very impetus for the
+dialectic: "the finite sublates itself because it contradicts itself inwardly" (129), the result of
+which is not more contradiction, but rather is something-concrete, the negation of the original
+determinations. When Hegel says that everything finite is its own sublation, it is because
+everything finite is inherently contradictory. Perhaps this is why Hegel characterizes dialectic as
+immanent coherence: it comprehends the incoherence of inherent contradiction through their
+self-sublation. Contradiction has its origins in the moment of the understanding (the abstract
+either-or) but finds its statement and resolution within dialectic (the principle of movement).
+
+* The Movement from Pure Being to Being-there
+
+It may help to consider an example. Let us consider the further categorization of, or movement from,
+the category of being to the category of being-there at the final moment in which becoming inwardly
+collapses, resulting in being-there. At this point in the Logic, being has been found in its
+ultimate immediacy to be pure being. Pure being, in its turn, has been found to be pure abstraction
+which, taken immediately, is nothing. We have posited that (empty and abstract) being is the same as
+or identical to (empty and abstract) nothing. That is to say, being and nothing have passed into
+their opposites; we have undertaken a dialectical turn. From the position of the understanding,
+being and nothing are held separate and fixed. As we inspect being, we find it to be nothing which
+we understand to be contradictory. The dialectical move is to overcome the opposed determinations
+via positing becoming as their _simple_ unity (without relation) as the determinate result.
+Becoming, as the result or affirmation contained within the contradiction, is itself inherently
+contradictory and unstable, as it does not relate being and nothing within itself and has not gone
+beyond the negative. Therefore, it must give way to the speculative move, to being-there (§89):
+
+#+BEGIN_QUOTE
+In becoming, being, as one with nothing, and nothing as one with being, are only vanishing (terms);
+because of its contradiction becoming collapses inwardly into the unity within which both are
+sublated; in this way its result is _being-there_ (145).
+#+END_QUOTE
+
+Becoming contains an inherent contradiction, the simple unity of being and nothing. Being there is
+the true, speculative resolution of the half-abstracted, half-concrete result of the becoming, the
+previous dialectical result. Hegel states in the following _Remark_, "being-there is the unity of
+being and nothing, in which the immediacy of these determinations, and therewith their contradiction
+[in the dialectical result of becoming], has disappeared in their relation" (146). There is no
+mistaking that becoming, the result of the previous dialectic, is inherently contradictory.
+
+It seems from this example that, in at least some sense, the result of dialectical moment includes
+more contradiction. This new "more contradiction" is the introduction of a new contradiction rather
+than a continuation of the old one, which was the impetus for the dialectical movement in the first
+place. In the case of becoming, the first contradiction was the identity of being and nothing. The
+second contradiction was their simple unity. The dialectical result is still something-concrete, but
+also at the same time something-abstract. It follows that the dialectical moment itself is
+responsible for inducing new inherent contradictions into logical reasoning.
+
+How can this characterization of inherent contradiction as a product of dialectic be reconciled with
+the supposed priority of inherent contradiction to dialectic? I'm not entirely sure. One solution
+may be to understand this new contradiction as prior to the _next_ dialectic movement and subsequent
+to the last. In this way, some inherent contradiction is always there for dialectical reasoning to
+overthrow into its opposite and move towards resolution. Within the Concept, this would inscribe
+inherent contradiction within all its moments. But how would this explain the universality of
+inherent contradiction _from the perspective of the understanding_? The point, it seems, is that,
+from the perspective of understanding, one cannot see the inherent contradiction in all objects and
+concepts. It is only within the Concept and through the dialectical movement in which inherent
+contradiction shows itself in everything real.
+
+* Appreciating Inherent Contradiction
+
+Taking dialectical to be both the resolution and the origin of inherent contradiction, we can try to
+answer why Hegel thinks inherent contradiction is found in everything actual. Inherent contradiction
+is no more than the opposed determinations found within every object or concept. It differs from
+contradiction as such in that it is inward and immanent, never in regards to an external other.
+Wherever one finds dialectic, one will also find the annihilation and preservation of contradiction.
+Insofar as what is actual is rational, reality is structured by the categorial logic, and so must
+undergo the dialectical moment, and so also inherent contradiction.
+
+Therefore, the Hegelian claim that 'everything is inherently contradictory' is no more offensive or
+incorrect than the claim that 'the three parts of the logic are moments of everything real'.
+Inherent contradiction is both the motivation for and the result of the dialectical moment. To
+assert the inherent contradiction within an object is to emphasize the object's passing through the
+dialectical moment as part of the unfolding of the categorial development.
+
+Inherent contradiction, then, serves many purposes within the Logic. In the context of history of
+philosophy, it was the inherent contradiction of the antinomies that turned thinking towards itself,
+and so towards immanence. Before Kant, Cosmology dealt with the world and constructed absolute
+antitheses (e.g. freedom and necessity). The inherent contradictions found within these antitheses,
+and so of the world, resulted in the innovation that Cosmology dealt not with the world-in-itself,
+but rather the world as it appears and that the inherent contradictions, the antitheses, were in the
+faulty cognition of this appearance as opposed to the world-in-itself. Hegel sees his realization
+that 'everything is inherently contradictory' as the fundamental innovation of his philosophical
+thinking[fn::In the /Remark/ already quoted in the introduction, Hegel asserts that "To know this
+[that antinomy is founds not only in the four particular ob-jects taken from Cosmology, but rather
+in /all/ objects of all kinds, in /all/ representations, concepts, and ideas], and to be cognizant
+of this property of ob-jects, belongs to what is essential in philosophical study" (90).], and in
+this way inherent contradiction can be said to be important for Hegel.
+
+However, inherent contradiction is also important for Hegel as the impetus and source of movement
+throughout the dialectical moment. The categorial justification for movements between the categories
+is that to do so is to advance on the categorial hierarchy, from a category that is more abstract
+and less determinate to a category that is less abstract and more determinate. The positing and
+resolving of inherent contradiction allows for this deepening of determination, as the resolution of
+contradiction involves the inscribing of two determinations into one. Moreover, the contradictory
+nature of the categories secures the necessity of their movements. The fact that inherent
+contradiction lay behind ensures that the categories develop in the right way, through the
+resolution of the contradiction at hand, i.e. through the self-sublation of the finite and opposed
+determinations.
+
+On a final note, if one denies that Hegelian logic is committed to inherent contradiction, as Bole
+does, there would seem to be potential problems in how Hegel places himself in the philosophical
+tradition and his characterization of his Logic. On the other hand, a 'inherently contradictory'
+reading of the Logic is at least possible, and allows Hegel to remain consistent within his own
+text. If inherent contradiction is no worse than what is found here, then we should be careful to
+dismiss it on grounds of its absurdity, less the critique fall on the entire Logic itself.
+

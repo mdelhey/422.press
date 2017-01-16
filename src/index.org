@@ -1,0 +1,25 @@
+#+TITLE: 422.press
+#+AUTHOR: 422.press
+#+EMAIL: 422press@gmail.com
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil c:nil
+#+OPTIONS: creator:comment d:(not LOGBOOK) date:t e:t email:t f:t inline:t
+#+OPTIONS: num:nil p:nil pri:nil stat:nil tags:t tasks:t tex:t timestamp:t toc:nil title:t
+
+#+BEGIN_QUOTE
+Thus /M/ --- /C/ --- /L/ / /mp/ does not simply express the qualitative relationship in which a certain sum of money, e.g. £422, is transformed into means of production and labour-power of a corresponding sum, but also a quantitative ratio between the portion of the money spent on labour-power /L/ and on the means of production /mp/, this ratio being conditioned from the start by the excess or surplus labour that the number of workers involved have to expend (Capital vol. 2, pp. 110-1).
+#+END_QUOTE
+
+Welcome to [[http://422.press][422.press]]. 
+
+* Music
+- Morph5 review
+- My top five releases of 2016
+
+* Text
+- [[file:posts/capital-vol2.org][/Capital/, Volume 2: Total Social Capital]]
+- /The Lacanian Delusion/: Why we were delueded.
+- [[file:posts/hegel-contradiction.org][On the Origins of Inherent Contradiction in Hegel's /Lesser Logic/]]
+
+Thanks for reading. 
+
+

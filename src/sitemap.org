@@ -1,0 +1,9 @@
+#+TITLE: Sitemap for project org-notes
+
+   + posts
+     + [[file:posts/hegel-contradiction.org][On the Origins of Inherent Contradiction in Hegel's /Lesser Logic/]]
+     + [[file:posts/post1.org][post1]]
+     + [[file:posts/test.org][test]]
+     + [[file:posts/tmp.org][tmp]]
+   + [[file:index.org][422.press]]
+   + [[file:theindex.org][Index]]
